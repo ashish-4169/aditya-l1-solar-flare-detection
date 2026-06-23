@@ -1,0 +1,15 @@
+# Requirements — SoLEXS Milestone 1 Flare Detection Pipeline
+# Generated for Python 3.9+
+
+# ── Astronomy FITS I/O ────────────────────────────────────────────────────────
+astropy>=5.0
+
+# ── Numerical & data processing ──────────────────────────────────────────────
+numpy>=1.22
+pandas>=1.5
+
+# ── Visualisation ─────────────────────────────────────────────────────────────
+matplotlib>=3.5
+
+# ── Optional: faster rolling stats (used if scipy available) ─────────────────
+# scipy>=1.9
